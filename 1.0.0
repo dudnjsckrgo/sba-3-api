@@ -1,0 +1,25 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\bitcamp\.conda\envs\tensorflow
+
+  added / updated specs:
+    - xlrd
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    xlrd-1.2.0                 |           py37_0         180 KB
+    ------------------------------------------------------------
+                                           Total:         180 KB
+
+The following NEW packages will be INSTALLED:
+
+  xlrd               pkgs/main/win-64::xlrd-1.2.0-py37_0
+
+
+Proceed ([y]/n)? 
